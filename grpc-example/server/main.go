@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/qinsheng99/grpc-example/grpc-example/route"
+	pb "github.com/qinsheng99/example/grpc-example/route"
 
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/proto"
