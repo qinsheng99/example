@@ -3,7 +3,6 @@ module github.com/qinsheng99/example
 go 1.15
 
 require (
-	github.com/gin-gonic/gin v1.7.7 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	golang.org/x/net v0.0.0-20211205041911-012df41ee64c // indirect
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d // indirect
